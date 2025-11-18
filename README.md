@@ -28,8 +28,8 @@ Each category links to its own folder or overview.
 
   &nbsp;•&nbsp;
 
-  <a href="https://github.com/MindsofD23b/docs/tree/main/Konzepte">
-    Konzepte
+  <a href="https://github.com/MindsofD23b/docs/tree/main/Konzepts">
+    Konzepts
   </a>
 
   &nbsp;•&nbsp;
