@@ -26,18 +26,23 @@ Each category links to its own folder or overview.
     Statusberichte
   </a>
 
-  &nbsp;•&nbsp;
+<br>
 
   <a href="https://github.com/MindsofD23b/docs/tree/main/Konzepts">
     Konzepts
   </a>
 
-  &nbsp;•&nbsp;
+<br>
 
   <a href="https://github.com/MindsofD23b/docs/tree/main/Usage">
     Usage
   </a>
 
+<br>
+
+ <a href="https://github.com/MindsofD23b/docs/tree/main/Guides">
+    Usage
+  </a>
 
 ---
 
@@ -51,7 +56,16 @@ Enthält Fortschritt, Risiken, offene Fragen und Planung.
 Alle Grundlagen, Ideen, Architekturentscheidungen & Projektbegründungen.  
 Hier wird erklärt, **was Nethr ist**, **warum es existiert** und **wie es funktionieren soll**.
 
-### **⚙️ Usage / Guides**
+### **⚙️ Usage**
+Da sind alle "Tools" die wir benutzt haben um die Webseite **[Nethr](https://github.com/MindsofD23b/Neithr)** zu kreieren mit Copy Right rechten.
+
+| README | AWS | Docker | Figma | Github | React | Tailwind | Tools | 
+| --- | --- | --- | --- | --- | --- | --- | --- | 
+|  |  |  |  |  | <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+<img width="12"/> 
+
+
+### **💡 Guides**
 Guides, Tutorials und Erklärungen zur Nutzung von Nethr:
 
 - Wie erstellt man einen Minecraft-Server?
@@ -60,6 +74,7 @@ Guides, Tutorials und Erklärungen zur Nutzung von Nethr:
 - Wie funktionieren die Tarife?
 - API Doku (zukünftig)
 - Deployment / Infrastruktur (AWS, Docker, etc.)
+
 
 ---
 
