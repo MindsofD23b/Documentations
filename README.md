@@ -75,7 +75,7 @@ Guides, Tutorials und Erklärungen zur Nutzung von Nethr:
 | Repo | Description |
 |------|-------------|
 | **[Nethr](https://github.com/MindsofD23b/Nethr)** | Main platform repository – core architecture, planning & meta resources. |
-| **[docs](https://github.com/MindsofD23b/docs)** | Central documentation hub containing concepts, status reports, usage guides, and project planning. |
+| **[Documentations](https://github.com/MindsofD23b/Documentations)** | Central documentation hub containing concepts, status reports, usage guides, and project planning. |
 | **[Frontend](https://github.com/MindsofD23b/Frontend)** | React + Tailwind frontend for the Nethr dashboard, user interface, and server management UI. |
 | **[Backend](https://github.com/MindsofD23b/Backend)** | API, server logic, authentication, billing integrations, monitoring endpoints, and infrastructure connections. |
 | **[Service](https://github.com/MindsofD23b/Service)** | Background services: server deployment pipeline, resource scaling, monitoring workers & automation tasks. |
