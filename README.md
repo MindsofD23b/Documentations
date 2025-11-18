@@ -80,10 +80,42 @@ Hier wird erklärt, **was Nethr ist**, **warum es existiert** und **wie es funkt
 ### **⚙️ Usage**
 Da sind alle "Tools" die wir benutzt haben um die Webseite **[Nethr](https://github.com/MindsofD23b/Neithr)** zu kreieren mit Copy Right rechten.
 
-| README | AWS | Docker | Figma | Github | React | Tailwind | Tools | 
-| --- | --- | --- | --- | --- | --- | --- | --- | 
-|  |  |  |  |  | <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-<img width="12"/> 
+<table align="">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50"/><br/>
+      README
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/><br/>
+      AWS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/><br/>
+      Docker
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/><br/>
+      Figma
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br/>
+      GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>
+      React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/><br/>
+      Tailwind
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br/>
+      Tools
+    </td>
+  </tr>
+</table>
 
 
 ### **💡 Guides**
