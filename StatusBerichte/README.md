@@ -1,0 +1,25 @@
+# 📊 Status Reports
+
+This folder contains all official two-week status reports for the Nethr project.  
+Each report documents the progress, risks, open questions, and next steps for the given sprint period.
+
+Reports follow a fixed structure to ensure clarity and consistency across the entire project timeline.
+
+## 📌 Contents
+
+- Bi-weekly progress updates
+- Assigned tasks per team member
+- Infrastructure & architectural decisions
+- Risks and blockers
+- Planning for the upcoming sprint
+- Questions requiring executive or team decisions
+
+## 📝 Template
+
+You can use the following template for creating new reports:
+
+[TEMPLATE_Statusbericht.md](./TEMPLATE_Statusbericht.md)
+
+## 📁 Naming Convention
+
+Use the following format for new reports:
