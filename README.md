@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/MindsofD23b/Nethr" target="_blank">
-    <img src="" alt="Logo" width="300">
+    <img src="Logo.png" alt="Logo" width="300">
   </a>
 </p>
 
