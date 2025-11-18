@@ -22,23 +22,22 @@
 Below you can find the main sections of our documentation.  
 Each category links to its own folder or overview.
 
-<br>
-
-<p align="center">
-
   <a href="https://github.com/MindsofD23b/docs/tree/main/StatusBerichte">
-    <img src="https://img.shields.io/badge/Statusberichte-8A0303?style=for-the-badge&logo=files&logoColor=white" alt="Statusberichte">
+    Statusberichte
   </a>
+
+  &nbsp;•&nbsp;
 
   <a href="https://github.com/MindsofD23b/docs/tree/main/Konzepte">
-    <img src="https://img.shields.io/badge/Konzepte-5B0A91?style=for-the-badge&logo=markdown&logoColor=white" alt="Konzepte">
+    Konzepte
   </a>
+
+  &nbsp;•&nbsp;
 
   <a href="https://github.com/MindsofD23b/docs/tree/main/Usage">
-    <img src="https://img.shields.io/badge/Usage-FF4500?style=for-the-badge&logo=book&logoColor=white" alt="Usage">
+    Usage
   </a>
 
-</p>
 
 ---
 
