@@ -62,6 +62,13 @@ Each category links to its own folder or overview.
 
 <br>
 
+ <a href="https://github.com/MindsofD23b/docs/tree/main/WeeklyReports">
+    WeeklyReports
+  </a>
+
+<br>
+
+
 ---
 
 ## 📚 Sections Explained
