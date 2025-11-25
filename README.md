@@ -45,13 +45,13 @@ Below you can find the main sections of our documentation.
 Each category links to its own folder or overview.
 
   <a href="https://github.com/MindsofD23b/docs/tree/main/StatusBerichte">
-    Statusberichte
+    Status reports
   </a>
 
 <br>
 
   <a href="https://github.com/MindsofD23b/docs/tree/main/Konzepts">
-    Konzepts
+    Conzepts
   </a>
 
 <br>
@@ -62,7 +62,7 @@ Each category links to its own folder or overview.
 
 <br>
 
- <a href="https://github.com/MindsofD23b/docs/tree/main/WeeklyReports">
+ <a href="https://github.com/MindsofD23b/docs/tree/main/StatusBerichte/WeeklyReports">
     WeeklyReports
   </a>
 
