@@ -3,8 +3,8 @@
 <br>
 
 <p align="center">
-   <a href="https://github.com/MindsofD23b/Nethr" target="_blank">
-    <img src="Logo.png" alt="Logo" width="300">
+  <a href="https://github.com/MindsofD23b/Nethr" target="_blank">
+    <img src="../Logo.png" alt="Logo" width="300">
   </a>
 </p>
 
