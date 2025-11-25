@@ -18,7 +18,7 @@ Reports follow a fixed structure to ensure clarity and consistency across the en
 
 You can use the following template for creating new reports:
 
-[TEMPLATE_Statusbericht.md](./TEMPLATE_Statusbericht.md)
+[TEMPLATE_Statusbericht.md](./TEMPLATE_Statusbericht.docx)
 
 ## 📁 Naming Convention
 
