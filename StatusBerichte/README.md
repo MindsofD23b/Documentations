@@ -13,12 +13,21 @@ Reports follow a fixed structure to ensure clarity and consistency across the en
 - Risks and blockers
 - Planning for the upcoming sprint
 - Questions requiring executive or team decisions
+- Weekly Reports
 
 ## 📝 Template
 
 You can use the following template for creating new reports:
 
 [TEMPLATE_Statusbericht.docx](https://github.com/MindsofD23b/docs/raw/main/StatusBerichte/TEMPLATE_Statusbericht.docx)
+
+
+## 📘 Weekly Reports
+
+  <a href="https://github.com/MindsofD23b/Documentations/blob/main/StatusBerichte/WeeklyReports.md" >
+    Weekly Reports
+  </a>
+
 
 
 ## 📁 Naming Convention
