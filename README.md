@@ -29,12 +29,13 @@ In short, Nethr.io makes server management effortless, powerful, and fun - so yo
 ---
 
 <br>
-<br>
 
 <p align="center">
   Central documentation hub for the entire Nethr ecosystem.<br>
-  All concepts, technical plans, status reports and usage guides are collected and maintained here.
+  <strong>All concepts, technical plans, status reports and usage guides are collected and maintained here.</strong>
 </p>
+
+<br>
 
 ---
 
@@ -61,24 +62,20 @@ Each category links to its own folder or overview.
 
 <br>
 
- <a href="https://github.com/MindsofD23b/docs/tree/main/Guides">
-    Usage
-  </a>
-
 ---
 
 ## 📚 Sections Explained
 
-### **📄 Statusberichte**
-Regelmässige zweiwöchentliche Statusupdates des Projekts.  
-Enthält Fortschritt, Risiken, offene Fragen und Planung.
+### **📄 Status Reports**
+Bi-weekly project updates including:  
+progress, risks, questions, and upcoming tasks.
 
-### **🧩 Konzepte**
-Alle Grundlagen, Ideen, Architekturentscheidungen & Projektbegründungen.  
-Hier wird erklärt, **was Nethr ist**, **warum es existiert** und **wie es funktionieren soll**.
+### **🧩 Concepts**
+All foundational documents: ideas, architecture decisions, and project justification.  
+Explains **what Nethr is**, **why it exists**, and **how it works.**
 
 ### **⚙️ Usage**
-Da sind alle "Tools" die wir benutzt haben um die Webseite **[Nethr](https://github.com/MindsofD23b/Neithr)** zu kreieren mit Copy Right rechten.
+All tools we used to build **[Nethr](https://github.com/MindsofD23b/Nethr)**, including proper copyright attributions.
 
 <table align="">
   <tr>
@@ -119,22 +116,22 @@ Da sind alle "Tools" die wir benutzt haben um die Webseite **[Nethr](https://git
 
 
 ### **💡 Guides**
-Guides, Tutorials und Erklärungen zur Nutzung von Nethr:
+Guides, tutorials, and explanations for using Nethr:
 
-- Wie erstellt man einen Minecraft-Server?
-- Wie funktioniert Live Monitoring?
-- Wie skaliert man Ressourcen?
-- Wie funktionieren die Tarife?
-- API Doku (zukünftig)
-- Deployment / Infrastruktur (AWS, Docker, etc.)
+- How to create a Minecraft server  
+- How live monitoring works  
+- How to scale resources  
+- How pricing & plans work  
+- Future API documentation  
+- Deployment & infrastructure (AWS, Docker, etc.)  
 
 
 ---
 
 ## 💬 Contribution & Team
-- GitHub: **[Click me](https://github.com/MindsofD23b/)**  
-- Collaborators werden aktiv gepflegt  
-- Git wird sauber genutzt (Branches, PRs, Reviews)
+- GitHub: **[Click here](https://github.com/MindsofD23b/)**  
+- Collaborators are actively maintained  
+- Git workflow: branches, pull requests, reviews  
 
 
 ## 👥 Contributors 
@@ -190,7 +187,7 @@ Implemented the user interface and ensured a smooth, responsive user experience.
 
 | Repo | Description |
 |------|-------------|
-| **[Nethr](https://github.com/MindsofD23b/Nethr)** | Main platform repository – core architecture, planning & meta resources. |
+| **[Nethr](https://github.com/MindsofD23b/Nethr)** | Main platform repository - core architecture, planning & meta resources. |
 | **[Documentations](https://github.com/MindsofD23b/Documentations)** | Central documentation hub containing concepts, status reports, usage guides, and project planning. |
 | **[Frontend](https://github.com/MindsofD23b/Frontend)** | React + Tailwind frontend for the Nethr dashboard, user interface, and server management UI. |
 | **[Backend](https://github.com/MindsofD23b/Backend)** | API, server logic, authentication, billing integrations, monitoring endpoints, and infrastructure connections. |
