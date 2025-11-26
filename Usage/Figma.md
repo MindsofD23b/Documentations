@@ -1,6 +1,11 @@
-# 🎨 Figma — UI/UX Design
+<h1 style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+  Figma — UI/UX Design
+</h1>
 
-Figma is used to design the entire user interface of Nethr, including dashboards, layouts, components, and branding elements.
+<p>
+  Figma is used to design the entire user interface of Nethr, including dashboards, layouts, components, and branding elements.
+</p>
 
 ## 📌 Why We Use Figma
 
