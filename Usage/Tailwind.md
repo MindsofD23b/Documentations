@@ -1,7 +1,12 @@
-# 🎨 TailwindCSS — Utility-first Styling
+<h1 style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" />
+   TailwindCSS — Utility-first Styling
+</h1>
 
-TailwindCSS is the styling framework used for the entire Nethr interface.  
-It enables a highly customizable design system that fits our Nether-inspired aesthetic.
+<p>
+  TailwindCSS is the styling framework used for the entire Nethr interface.  
+  It enables a highly customizable design system that fits our Nether-inspired aesthetic.
+</p>
 
 ## 📌 Why We Use TailwindCSS
 
