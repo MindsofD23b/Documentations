@@ -1,4 +1,8 @@
-# ☁️ Amazon Web Services (AWS) — Cloud Infrastructure
+<h1 style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" margin="10px" />
+  Amazon Web Services (AWS) — Cloud Infrastructure
+</h1>
+
 
 AWS serves as the foundation of Nethr’s server infrastructure.  
 It provides scalable compute power, secure networking, storage, and monitoring tools essential for running Minecraft servers reliably.
