@@ -1,7 +1,12 @@
-# ⚛️ React — Frontend Framework
+<h1 style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  React — Frontend Framework
+</h1>
 
-React is the primary frontend framework used to build the Nethr dashboard.  
-It enables component-based user interfaces, efficient rendering, and a structured development flow.
+<p>
+  React is the primary frontend framework used to build the Nethr dashboard.  
+  It enables component-based user interfaces, efficient rendering, and a structured development flow.
+</p>
 
 ## 📌 Why We Use React
 
