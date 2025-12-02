@@ -34,7 +34,7 @@ During Week 1, the entire team focused on defining the initial vision for Nethr.
 We discussed ideas, clarified the goal of the platform, and evaluated different approaches to Minecraft hosting.  
 This week was about setting direction, aligning expectations, and establishing roles.
 
----
+
 
 ## 👥 **All Team Members**
 
@@ -49,8 +49,9 @@ This week was about setting direction, aligning expectations, and establishing r
   - **Frontend:** Gregory Ruoss
 - Set up initial communication structure and workflow expectations.  
 
-
 ---
+
+
 
 # **📌 Week 2 - Technical Planning & Preparations**
 
@@ -76,6 +77,7 @@ We created the repositories, prepared our design system, discussed infrastructur
 - Documented responsibilities, communication flow, and planning approach.  
 - Started shaping the structure of the Status Reports.  
 - Coordinated discussions regarding tools and workflows.
+- Created a 2 Week-Stamp-Report for the Teacher.
 
 ---
 
@@ -97,15 +99,6 @@ We created the repositories, prepared our design system, discussed infrastructur
 
 ---
 
-## 👥 **All Members**
-
-**Work Completed:**  
-- Set up the GitHub repository structure.  
-- Confirmed core tech stack: React, Tailwind, Docker, AWS.  
-- Started the infrastructure planning (based on AWS + Docker).  
-- Defined the initial Scrum-style workflow and sprint expectations.
-
----
 
 # **📌 Week 3 - Development Kickoff**
 
@@ -151,19 +144,49 @@ Each team member began executing tasks directly related to their specialization.
 
 ---
 
-# ✅ Summary of Week 3
+# **📌 Week 4 – Integration Phase**
 
-The team successfully transitioned from planning into active development:
-
-- DevOps created functional DinD environments.  
-- Frontend design reached a fully usable state.  
-- Backend research prepared the foundation for server deployment.  
-- Project management aligned documentation and workflows.
-
-The project is officially entering the **implementation phase**.
+This week marks the beginning of integrating backend and frontend components.  
+Development continued across all areas, with a focus on connecting systems and preparing core features.
 
 ---
 
+## 👤 **Jamie Poeffel – DevOps**
+
+**Work Completed:**  
+- Assisted **Luis** with the configuration setup for the Minecraft servers.  
+- Continued working on the purchase functionality within the backend.
+
+---
+
+## 👤 **Gregory Ruoss – Frontend**
+
+**Work Completed:**  
+- Continued frontend development using pair programming with **Kush**.  
+- Completed the landing page design and implementation.  
+- Preparing to begin development on the internal dashboard pages.
+
+---
+
+## 👤 **Luis Allamand – Backend**
+
+**Work Completed:**  
+- Continued working on the configuration logic for Minecraft servers.  
+- Coordinated with **Jamie** to ensure compatibility between runtime environments and backend logic.
+
+---
+
+## 👤 **Kush Srigiri – Project Manager**
+
+**Work Completed:**  
+- Supported **Gregory** with frontend development using pair programming.  
+- Completed the Weekly Report for this development cycle.  
+- Created the second two-week summary report for the teacher.
+
+---
+
+
+
 # 📅 Next Report  
-The next update will cover progress for **Week 4**.
+The next update will cover progress for **Week 5**.
 
