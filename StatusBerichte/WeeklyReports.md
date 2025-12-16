@@ -186,7 +186,47 @@ Development continued across all areas, with a focus on connecting systems and p
 ---
 
 
+# **📌 Week 5 – Realization Phase**
+
+This week marks the beginning of actively realizing the project.
+
+---
+
+## 👤 **Jamie Poeffel – DevOps**
+
+**Work Completed:**  
+- Set up DevOps-related configurations for the frontend.  
+- Enabled the current backend version to run inside a Docker container.  
+- Supported testing of the connection between the frontend and backend.
+
+---
+
+## 👤 **Gregory Ruoss – Frontend**
+
+**Work Completed:**  
+- Completed the frontend functionality for the login and sign-up pages.  
+- Started development of the start page (not the landing page).
+
+---
+
+## 👤 **Luis Allamand – Backend**
+
+**Work Completed:**  
+- Continued backend development.  
+- Worked on setting up and installing server routes.
+
+---
+
+## 👤 **Kush Srigiri – Project Manager**
+
+**Work Completed:**  
+- Attended an interview.(was not in school)  
+- Continued maintaining and updating the weekly report.
+
+---
+
+
 
 # 📅 Next Report  
-The next update will cover progress for **Week 5**.
+The next update will cover progress for **Week 6**.
 
