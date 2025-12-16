@@ -24,7 +24,8 @@ You can use the following template for creating new reports:
 
 ## 📘 Weekly Reports
 
-  <a href="https://github.com/MindsofD23b/Documentations/blob/main/StatusBerichte/WeeklyReports.md" >
+
+Interessted in what we did everyweek? ->  <a href="https://github.com/MindsofD23b/Documentations/blob/main/StatusBerichte/WeeklyReports.md" >
     Weekly Reports
   </a>
 
