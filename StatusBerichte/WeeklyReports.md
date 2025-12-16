@@ -1,4 +1,4 @@
-<h1 align="center">Nethr – Weekly Reports</h1>
+<h1 align="center">Nethr - Weekly Reports</h1>
 
 <br>
 
@@ -219,14 +219,50 @@ This week marks the beginning of actively realizing the project.
 
 ## 👤 **Kush Srigiri – Project Manager**
 
-**Work Completed:**  
-- Attended an interview.(was not in school)  
+**Work Completed:**   
+- Attended an interview(was not in school).
 - Continued maintaining and updating the weekly report.
 
 ---
 
+# **📌 Week 6 – Integration & Stabilization Phase**
 
+This week focused on stabilizing the connection between frontend and backend and resolving integration issues that emerged during development.
+
+---
+
+## 👤 **Jamie Poeffel – DevOps**
+
+**Work Completed:**  
+- Fixed the integration and communication issues between the frontend and backend.
+
+---
+
+## 👤 **Gregory Ruoss – Frontend**
+
+**Work Completed:**  
+- Continued frontend development with support from **Kush**.  
+- Worked with **Jamie** to resolve issues where the frontend and backend connection stopped functioning correctly.
+
+---
+
+## 👤 **Luis Allamand – Backend**
+
+**Work Completed:**  
+- Continued backend development and maintenance.
+
+---
+
+## 👤 **Kush Srigiri – Project Manager**
+
+**Work Completed:**  
+- Supported **Gregory** with frontend development.  
+- Continued maintaining and updating the weekly report.  
+- Created **Statusbericht 3** for the teacher.
+
+---
 
 # 📅 Next Report  
-The next update will cover progress for **Week 6**.
+The next update will cover progress for **Week 7**.
+
 
