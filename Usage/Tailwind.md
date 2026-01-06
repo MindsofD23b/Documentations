@@ -1,6 +1,6 @@
 <h1 style="display: flex; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" />
-   TailwindCSS — Utility-first Styling
+   TailwindCSS - Utility-first Styling
 </h1>
 
 <p>
