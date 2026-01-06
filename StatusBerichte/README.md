@@ -1,7 +1,7 @@
 # 📊 Status Reports
 
-This folder contains all official two-week status reports for the Nethr project.  
-Each report documents the progress, risks, open questions, and next steps for the given sprint period.
+This folder contains all official two-week status reports for the Nethr project, additionally a Template for the future status reports.
+Each report documents the progress, risks, open questions, and next steps for the given sprint period. 
 
 Reports follow a fixed structure to ensure clarity and consistency across the entire project timeline.
 
@@ -14,6 +14,7 @@ Reports follow a fixed structure to ensure clarity and consistency across the en
 - Planning for the upcoming sprint
 - Questions requiring executive or team decisions
 - Weekly Reports
+- Template Weekly Reports
 
 ## 📝 Template
 
