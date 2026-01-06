@@ -1,6 +1,6 @@
 <h1 style="display: flex; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" margin="10px" />
-  Amazon Web Services (AWS) — Cloud Infrastructure
+  Amazon Web Services (AWS) - Cloud Infrastructure
 </h1>
 
 
