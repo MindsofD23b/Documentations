@@ -1,4 +1,4 @@
-<h1 align="center">Nethr - Weekly Reports</h1>
+<h1 align="center">Nethr – Weekly Reports</h1>
 
 <br>
 
@@ -19,250 +19,239 @@
 - **[📄 Status Reports](https://github.com/MindsofD23b/Documentations/tree/main/StatusBerichte)**
 
 ---
+
 <br>
 
 # 📆 Weekly Reports  
-Nethr Weekly Development Logs - Weeks 1 to 3.
+Nethr Weekly Development Logs – Weeks 1 to 8.
 
 <br>
 
 ---
 
-# **📌 Week 1 - Project Kickoff & Concept Phase**
+# **📌 Week 1 – Project Kickoff & Concept Phase**
 
 During Week 1, the entire team focused on defining the initial vision for Nethr.  
-We discussed ideas, clarified the goal of the platform, and evaluated different approaches to Minecraft hosting.  
-This week was about setting direction, aligning expectations, and establishing roles.
-
-
+Ideas were discussed, the overall goal of the platform was clarified, and different approaches to Minecraft server hosting were evaluated.  
+The main focus was on setting direction, aligning expectations, and establishing clear roles.
 
 ## 👥 **All Team Members**
 
 **Work Completed:**  
-- Defined the overall concept for Nethr.  
-- Brainstormed platform functionalities and long-term goals.  
-- Discussed what we want to build, what problems we want to solve, and who our users will be.  
-- Assigned team roles:  
-  - **DevOps:** Jamie Poeffel
+- Defined the overall concept and purpose of Nethr.  
+- Brainstormed platform features and long-term goals.  
+- Discussed target users and core problems the platform aims to solve.  
+- Assigned team roles:
+  - **DevOps:** Jamie Poeffel  
   - **Project Manager:** Kush Srigiri  
-  - **Backend:** Luis Allamand
-  - **Frontend:** Gregory Ruoss
-- Set up initial communication structure and workflow expectations.  
+  - **Backend:** Luis Allamand  
+  - **Frontend:** Gregory Ruoss  
+- Established initial communication structures and workflow expectations.
 
 ---
 
+# **📌 Week 2 – Technical Planning & Preparations**
 
-
-# **📌 Week 2 - Technical Planning & Preparations**
-
-Week 2 marked the transition from theoretical planning to concrete technical preparation.  
-We created the repositories, prepared our design system, discussed infrastructure, and aligned on tools and workflows.
-
----
+Week 2 marked the transition from conceptual planning to concrete technical preparation.  
+Repositories were created, early design work began, and infrastructure and tooling decisions were discussed.
 
 ## 👤 **Jamie Poeffel – DevOps**
 
 **Work Completed:**  
-- Reviewed potential deployment strategies.  
-- Started researching Docker-based hosting setups.  
-- Evaluated AWS as the main hosting platform.  
-- Helped set up the basic structure for future CI/CD processes.
-
----
+- Reviewed potential deployment and hosting strategies.  
+- Began researching Docker-based hosting solutions.  
+- Evaluated AWS as a potential hosting platform.  
+- Helped establish the initial structure for future CI/CD processes.
 
 ## 👤 **Kush Srigiri – Project Manager**
 
 **Work Completed:**  
-- Collected information from all team members.  
-- Documented responsibilities, communication flow, and planning approach.  
-- Started shaping the structure of the Status Reports.  
-- Coordinated discussions regarding tools and workflows.
-- Created a 2 Week-Stamp-Report for the Teacher.
-
----
+- Collected progress and input from all team members.  
+- Documented responsibilities, communication flow, and planning structure.  
+- Began defining the structure for Status Reports.  
+- Coordinated discussions regarding tools and workflows.  
+- Created the first two-week summary report for the teacher.
 
 ## 👤 **Gregory Ruoss – Frontend**
 
 **Work Completed:**  
-- Created the first design drafts and wireframes in Figma.  
-- Developed the initial color palette and experimentation with UI aesthetic.  
-- Helped brainstorm the UX layout for the dashboard.
-
----
+- Created initial design drafts and wireframes in Figma.  
+- Developed an early color palette and UI aesthetic.  
+- Contributed ideas for the dashboard layout and user experience.
 
 ## 👤 **Luis Allamand – Backend**
 
 **Work Completed:**  
-- Participated in architecture discussions for the backend.  
-- Evaluated backend structure for server deployment, APIs, and user configuration.  
-- Researched infrastructure requirements for hosting servers at scale.
+- Participated in backend architecture discussions.  
+- Evaluated backend requirements for server deployment and APIs.  
+- Researched infrastructure needs for scalable server hosting.
 
 ---
 
+# **📌 Week 3 – Development Kickoff**
 
-# **📌 Week 3 - Development Kickoff**
-
-This week marks the start of active development.  
-Each team member began executing tasks directly related to their specialization.
-
----
+Week 3 marked the official start of active development.  
+Each team member began working on tasks directly related to their specialization.
 
 ## 👤 **Jamie Poeffel – DevOps**
 
 **Work Completed:**  
-- Configured a Docker-in-Docker (DinD) container for automated Minecraft server deployment.  
-- Worked with **Luis** and **Rajethan** to evaluate tunneling vs. home-server hosting strategies.  
-- Final decision: use **DinD locally**, then push to the server for deployment stability.
-
----
+- Configured a Docker-in-Docker (DinD) setup for automated Minecraft server deployment.  
+- Worked with **Luis** and **Rajethan** to evaluate tunneling versus home-server hosting strategies.  
+- Decided to use DinD locally first, followed by deployment to the server for improved stability.
 
 ## 👤 **Gregory Ruoss – Frontend**
 
 **Work Completed:**  
-- Completed full Figma design for the Nethr website.  
-- Preparing to start frontend implementation this week.  
-- Noted that future contributions should focus on clarity to avoid unnecessary redesigns.
-
----
+- Completed the full Figma design for the Nethr website.  
+- Prepared to begin frontend implementation.  
+- Emphasized the importance of clear and understandable contributions to avoid future redesigns.
 
 ## 👤 **Luis Allamand – Backend**
 
 **Work Completed:**  
-- Discussed backend and infrastructure approach with Mistah **Rajethan**.  
-- Studied how to host Minecraft servers inside Docker containers.  
-- Researched configuration pipelines so users can modify settings through the dashboard.
-
----
+- Discussed backend and infrastructure approaches with **Rajethan**.  
+- Researched hosting Minecraft servers inside Docker containers.  
+- Investigated configuration pipelines allowing users to customize server settings.
 
 ## 👤 **Kush Srigiri – Project Manager**
 
 **Work Completed:**  
-- Was sick today but still coordinated with the team.  
-- Created the WeeklyReports structure.  
-- Translated content into English for consistency.  
-- Preparing improvements for the Usage documentation with correct tool icons and logos.
+- Coordinated team communication despite temporary illness.  
+- Created the initial Weekly Reports structure.  
+- Translated documentation into English for consistency.  
+- Began improving the Usage documentation with correct tool references.
 
 ---
 
 # **📌 Week 4 – Integration Phase**
 
-This week marks the beginning of integrating backend and frontend components.  
-Development continued across all areas, with a focus on connecting systems and preparing core features.
-
----
+Week 4 focused on integrating backend and frontend components.  
+Development continued across all areas, with an emphasis on system connectivity and feature preparation.
 
 ## 👤 **Jamie Poeffel – DevOps**
 
 **Work Completed:**  
-- Assisted **Luis** with the configuration setup for the Minecraft servers.  
-- Continued working on the purchase functionality within the backend.
-
----
+- Assisted **Luis** with Minecraft server configuration setups.  
+- Continued working on purchase and billing-related backend functionality.
 
 ## 👤 **Gregory Ruoss – Frontend**
 
 **Work Completed:**  
 - Continued frontend development using pair programming with **Kush**.  
 - Completed the landing page design and implementation.  
-- Preparing to begin development on the internal dashboard pages.
-
----
+- Prepared to start development of internal dashboard pages.
 
 ## 👤 **Luis Allamand – Backend**
 
 **Work Completed:**  
-- Continued working on the configuration logic for Minecraft servers.  
-- Coordinated with **Jamie** to ensure compatibility between runtime environments and backend logic.
-
----
+- Continued developing configuration logic for Minecraft servers.  
+- Coordinated with **Jamie** to ensure compatibility between backend logic and runtime environments.
 
 ## 👤 **Kush Srigiri – Project Manager**
 
 **Work Completed:**  
-- Supported **Gregory** with frontend development using pair programming.  
-- Completed the Weekly Report for this development cycle.  
+- Supported frontend development through pair programming.  
+- Completed the Weekly Report for this cycle.  
 - Created the second two-week summary report for the teacher.
 
 ---
 
-
 # **📌 Week 5 – Realization Phase**
 
-This week marks the beginning of actively realizing the project.
-
----
+Week 5 marked the beginning of actively realizing the planned features.
 
 ## 👤 **Jamie Poeffel – DevOps**
 
 **Work Completed:**  
 - Set up DevOps-related configurations for the frontend.  
-- Enabled the current backend version to run inside a Docker container.  
-- Supported testing of the connection between the frontend and backend.
-
----
+- Enabled the backend to run reliably inside a Docker container.  
+- Supported testing of frontend–backend communication.
 
 ## 👤 **Gregory Ruoss – Frontend**
 
 **Work Completed:**  
-- Completed the frontend functionality for the login and sign-up pages.  
-- Started development of the start page (not the landing page).
-
----
+- Completed login and sign-up functionality.  
+- Started development of the start page (distinct from the landing page).
 
 ## 👤 **Luis Allamand – Backend**
 
 **Work Completed:**  
 - Continued backend development.  
-- Worked on setting up and installing server routes.
-
----
+- Worked on installing and configuring server routes.
 
 ## 👤 **Kush Srigiri – Project Manager**
 
-**Work Completed:**   
-- Attended an interview(was not in school).
+**Work Completed:**  
+- Attended an external interview (not present at school).  
 - Continued maintaining and updating the weekly report.
 
 ---
 
 # **📌 Week 6 – Integration & Stabilization Phase**
 
-This week focused on stabilizing the connection between frontend and backend and resolving integration issues that emerged during development.
-
----
+Week 6 focused on stabilizing the frontend–backend connection and resolving integration issues.
 
 ## 👤 **Jamie Poeffel – DevOps**
 
 **Work Completed:**  
-- Fixed the integration and communication issues between the frontend and backend.
-
----
+- Fixed communication and integration issues between frontend and backend.
 
 ## 👤 **Gregory Ruoss – Frontend**
 
 **Work Completed:**  
 - Continued frontend development with support from **Kush**.  
-- Worked with **Jamie** to resolve issues where the frontend and backend connection stopped functioning correctly.
-
----
+- Collaborated with **Jamie** to resolve broken frontend–backend connections.
 
 ## 👤 **Luis Allamand – Backend**
 
 **Work Completed:**  
-- Continued backend development and maintenance.
-
----
+- Continued backend development and general maintenance.
 
 ## 👤 **Kush Srigiri – Project Manager**
 
 **Work Completed:**  
-- Supported **Gregory** with frontend development.  
-- Continued maintaining and updating the weekly report.  
-- Created **Statusbericht 3** for the teacher.
+- Supported frontend development.  
+- Maintained and updated the weekly report.  
+- Created **Status Report 3** for the teacher.
+
+---
+
+# **📌 Week 7 – Feature Expansion & Payment Integration**
+
+Week 7 focused on expanding core platform features and integrating the payment system.  
+Frontend, backend, and DevOps development progressed in parallel.
+
+## 👤 **Jamie Poeffel – DevOps**
+
+**Work Completed:**  
+- Supported payment integration by creating Stripe payment links.  
+- Created and refined backend type definitions for improved structure.  
+- Fixed multiple technical issues and inconsistencies to improve stability.
+
+## 👤 **Gregory Ruoss – Frontend**
+
+**Work Completed:**  
+- Implemented the payment page.  
+- Coordinated closely with **Jamie** and **Kush** to align frontend, backend, and payment logic.  
+- Researched movable and interactive UI elements.  
+- Created the **Add Server** page for initiating server creation.
+
+## 👤 **Luis Allamand – Backend**
+
+**Work Completed:**  
+- Continued work on Docker configurations and server settings.  
+- Tested multiplayer functionality to verify server behavior and compatibility.
+
+## 👤 **Kush Srigiri – Project Manager**
+
+**Work Completed:**  
+- Refined project documentation for clarity and consistency.  
+- Created and finalized the Week 7 Weekly Report.  
+- Supported frontend development and coordination.  
+- Created and refined the landing page to align with the platform design.
 
 ---
 
 # 📅 Next Report  
-The next update will cover progress for **Week 7**.
-
-
+The next update will cover progress for **Week 8**.
