@@ -31,6 +31,3 @@ Interessted in what we did everyweek? ->  <a href="https://github.com/MindsofD23
 
 
 
-## 📁 Naming Convention
-
-Use the following format for new reports:
