@@ -45,7 +45,7 @@ Below you can find the main sections of our documentation.
 Each category links to its own folder or overview.
 
   <a href="https://github.com/MindsofD23b/docs/tree/main/StatusBerichte">
-    Status reports
+    Status Reports
   </a>
 
 <br>
@@ -61,6 +61,10 @@ Each category links to its own folder or overview.
   </a>
 
 <br>
+
+<a href="https://github.com/MindsofD23b/Documentations/blob/main/StatusBerichte/WeeklyReports.md">
+  Weekly Reports
+</a>
 
 ---
 
@@ -114,6 +118,9 @@ All tools we used to build **[Nethr](https://github.com/MindsofD23b/Nethr)**, in
   </tr>
 </table>
 
+### **🗓️ Weekly Reports**
+Short weekly updates from each team member.
+Includes what was done, current progress, blockers, questions, and plans for the next week.
 
 ### **💡 Guides**
 Guides, tutorials, and explanations for using Nethr:
