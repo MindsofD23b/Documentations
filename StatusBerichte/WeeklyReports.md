@@ -43,9 +43,9 @@ The main focus was on setting direction, aligning expectations, and establishing
 - Discussed target users and core problems the platform aims to solve.  
 - Assigned team roles:
   - **DevOps:** Jamie Poeffel  
-  - **Project Manager:** Kush Srigiri  
-  - **Backend:** Luis Allamand  
   - **Frontend:** Gregory Ruoss  
+  - **Backend:** Luis Allamand  
+  - **Project Manager:** Kush Srigiri  
 - Established initial communication structures and workflow expectations.
 
 ---
@@ -63,15 +63,6 @@ Repositories were created, early design work began, and infrastructure and tooli
 - Evaluated AWS as a potential hosting platform.  
 - Helped establish the initial structure for future CI/CD processes.
 
-## 👤 **Kush Srigiri – Project Manager**
-
-**Work Completed:**  
-- Collected progress and input from all team members.  
-- Documented responsibilities, communication flow, and planning structure.  
-- Began defining the structure for Status Reports.  
-- Coordinated discussions regarding tools and workflows.  
-- Created the first two-week summary report for the teacher.
-
 ## 👤 **Gregory Ruoss – Frontend**
 
 **Work Completed:**  
@@ -85,6 +76,15 @@ Repositories were created, early design work began, and infrastructure and tooli
 - Participated in backend architecture discussions.  
 - Evaluated backend requirements for server deployment and APIs.  
 - Researched infrastructure needs for scalable server hosting.
+
+## 👤 **Kush Srigiri – Project Manager**
+
+**Work Completed:**  
+- Collected progress and input from all team members.  
+- Documented responsibilities, communication flow, and planning structure.  
+- Began defining the structure for Status Reports.  
+- Coordinated discussions regarding tools and workflows.  
+- Created the first two-week summary report for the teacher.
 
 ---
 
@@ -253,30 +253,29 @@ Frontend, backend, and DevOps development progressed in parallel.
 
 ---
 
-# **📌 Week 7.5 – Finalization & System Integration (08–10 January)**
+# **📌 Week 8 - Final Touches, Responsiveness & Re-Integration **
 
-During this period, the team focused on finalizing the project and bringing all major components together.  
-By the end of this phase, approximately **80% of the overall project** was completed.  
-The main emphasis was on finishing the user interface, connecting frontend and backend systems, and stabilizing the platform as a whole.
+Week 8 focused on final polishing, responsiveness, and stabilizing the complete system.  
+By the end of this phase, around **80% of the overall website** was completed.
 
 ## 👥 **All Team Members**
 
 **Work Completed:**  
-- Finalized the majority of the user interface across the platform.  
-- Integrated frontend components with backend logic and APIs.  
-- Configured and tested communication between the dashboard and server management features.  
-- Continued refining Docker-based setups for server handling.  
-- Performed testing to identify and fix remaining issues and inconsistencies.  
-- Improved overall usability, layout consistency, and visual polish.  
+- Completed final UI improvements and visual polish across the platform.  
+- Made the website fully responsive for mobile, tablet, and desktop.  
+- Temporarily disconnected and successfully reconnected backend and frontend to resolve instability issues.  
+- Fixed and stabilized API communication between frontend and backend.  
+- Reworked and re-tested the payment system to ensure the purchase flow works correctly.  
+- Continued debugging and fixing smaller UI/logic issues discovered during testing.
+- Created the last Status Bericht 4 for the teacher.
 
 **Current State:**  
-- Core features are implemented and functional.  
-- UI is largely complete and aligned with the intended design.  
-- Backend and frontend are successfully connected and operational.  
-- The project is approaching completion, with remaining work focused on polishing, testing, and final adjustments.
+- Main UI and dashboard are functional and responsive.  
+- Backend and frontend are connected and operational.  
+- Payment flow is working again after fixes.  
+- Remaining work focuses on polishing, testing, and deployment preparation.
 
-
-
+---
 
 # 📅 Next Report  
- WE WILL BE BACK.
+WE WILL BE BACK.
